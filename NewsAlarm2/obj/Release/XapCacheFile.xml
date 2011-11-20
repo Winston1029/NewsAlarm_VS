@@ -1,0 +1,61 @@
+﻿<xapCache source="D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\Bin\Release\NewsAlarm2.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="11/19/2011 11:37:53 PM">
+  <file source="D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\Bin\Release\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="11/19/2011 11:37:53 PM" />
+  <file source="D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\Background.png" archivePath="Background.png" lastWriteTime="11/19/2011 11:36:54 PM" />
+  <file source="D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="11/19/2011 4:31:20 PM" />
+  <file source="D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\obj\Release\NewsAlarm2.dll" archivePath="NewsAlarm2.dll" lastWriteTime="11/19/2011 11:37:52 PM" />
+  <file source="C:\Program Files\Microsoft SDKs\Windows Phone\v7.1\Libraries\Silverlight\Microsoft.Phone.Controls.dll" archivePath="Microsoft.Phone.Controls.dll" lastWriteTime="9/15/2011 3:36:26 PM" />
+  <file source="D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\Microsoft.Phone.Controls.Toolkit.dll" archivePath="Microsoft.Phone.Controls.Toolkit.dll" lastWriteTime="11/19/2011 12:01:00 AM" />
+  <file source="D:\Code\VS\Phone\NewsAlarm\MyAudioPlaybackAgent\Bin\Release\MyAudioPlaybackAgent.dll" archivePath="MyAudioPlaybackAgent.dll" lastWriteTime="11/19/2011 11:37:51 PM" />
+  <file source="D:\Code\VS\Phone\NewsAlarm\MyAudioPlaybackAgent\Bin\Release\System.ServiceModel.Syndication.dll" archivePath="System.ServiceModel.Syndication.dll" lastWriteTime="3/10/2011 12:08:16 AM" />
+  <file source="D:\Code\VS\Phone\NewsAlarm\MyAudioPlaybackAgent\Bin\Release\System.Xml.Serialization.dll" archivePath="System.Xml.Serialization.dll" lastWriteTime="3/10/2011 12:08:16 AM" />
+  <file source="D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\Microsoft.Phone.Controls.Toolkit.dll" archivePath="Microsoft.Phone.Controls.Toolkit.dll" lastWriteTime="11/19/2011 12:01:00 AM" />
+  <file source="D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\Resource\Image\Home\alarm_time.png" archivePath="Resource\Image\Home\alarm_time.png" lastWriteTime="11/19/2011 8:02:36 AM" />
+  <file source="D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\Resource\Image\Home\snooze.png" archivePath="Resource\Image\Home\snooze.png" lastWriteTime="11/19/2011 8:09:06 AM" />
+  <file source="D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\Resource\Image\Home\weather.png" archivePath="Resource\Image\Home\weather.png" lastWriteTime="11/19/2011 8:09:06 AM" />
+  <file source="D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\Resource\Image\Tile\tile.jpg" archivePath="Resource\Image\Tile\tile.jpg" lastWriteTime="11/19/2011 2:31:52 AM" />
+  <file source="D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\Resource\Image\Tile\tileflip.jpg" archivePath="Resource\Image\Tile\tileflip.jpg" lastWriteTime="11/19/2011 2:31:52 AM" />
+  <file source="D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\Toolkit.Content\ApplicationBar.Cancel.png" archivePath="Toolkit.Content\ApplicationBar.Cancel.png" lastWriteTime="11/19/2011 12:51:10 AM" />
+  <file source="D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\Toolkit.Content\ApplicationBar.Check.png" archivePath="Toolkit.Content\ApplicationBar.Check.png" lastWriteTime="11/19/2011 12:51:10 AM" />
+  <file source="D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\Resource\Image\AppBar\alarm_btn.png" archivePath="Resource\Image\AppBar\alarm_btn.png" lastWriteTime="11/18/2011 11:07:00 PM" />
+  <file source="D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\Resource\Image\AppBar\home_btn.png" archivePath="Resource\Image\AppBar\home_btn.png" lastWriteTime="11/18/2011 11:07:00 PM" />
+  <file source="D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\Resource\Image\AppBar\snooze_btn.png" archivePath="Resource\Image\AppBar\snooze_btn.png" lastWriteTime="11/18/2011 11:07:00 PM" />
+  <file source="D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\Resource\Image\AppBar\sound_btn.png" archivePath="Resource\Image\AppBar\sound_btn.png" lastWriteTime="11/18/2011 11:07:00 PM" />
+  <file source="D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\Resource\Image\StationIcon\938.png" archivePath="Resource\Image\StationIcon\938.png" lastWriteTime="11/18/2011 11:59:38 PM" />
+  <file source="D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\Resource\Image\StationIcon\987.png" archivePath="Resource\Image\StationIcon\987.png" lastWriteTime="11/18/2011 11:58:06 PM" />
+  <file source="D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\Resource\Image\StationIcon\capical 95.8.png" archivePath="Resource\Image\StationIcon\capical 95.8.png" lastWriteTime="11/18/2011 11:56:28 PM" />
+  <file source="D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\Resource\Image\StationIcon\class 95.png" archivePath="Resource\Image\StationIcon\class 95.png" lastWriteTime="11/19/2011 12:03:00 AM" />
+  <file source="D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\Resource\Image\StationIcon\expat radio 96.3.png" archivePath="Resource\Image\StationIcon\expat radio 96.3.png" lastWriteTime="11/19/2011 12:06:26 AM" />
+  <file source="D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\Resource\Image\StationIcon\gold 90.5.png" archivePath="Resource\Image\StationIcon\gold 90.5.png" lastWriteTime="11/19/2011 12:08:26 AM" />
+  <file source="D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\Resource\Image\StationIcon\Love_97.2FM.png" archivePath="Resource\Image\StationIcon\Love_97.2FM.png" lastWriteTime="11/19/2011 12:09:56 AM" />
+  <file source="D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\Resource\Image\StationIcon\lush 99.5.png" archivePath="Resource\Image\StationIcon\lush 99.5.png" lastWriteTime="11/19/2011 12:11:26 AM" />
+  <file source="D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\Resource\Image\StationIcon\oli 96.8.png" archivePath="Resource\Image\StationIcon\oli 96.8.png" lastWriteTime="11/19/2011 12:12:58 AM" />
+  <file source="D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\Resource\Image\StationIcon\ria 89.7.png" archivePath="Resource\Image\StationIcon\ria 89.7.png" lastWriteTime="11/19/2011 12:14:26 AM" />
+  <file source="D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\Resource\Image\StationIcon\symphony 92.4.png" archivePath="Resource\Image\StationIcon\symphony 92.4.png" lastWriteTime="11/19/2011 12:15:42 AM" />
+  <file source="D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\Resource\Image\StationIcon\warna 94.2.png" archivePath="Resource\Image\StationIcon\warna 94.2.png" lastWriteTime="11/19/2011 12:16:56 AM" />
+  <file source="D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\Resource\Image\StationIcon\yes933.png" archivePath="Resource\Image\StationIcon\yes933.png" lastWriteTime="11/19/2011 12:18:24 AM" />
+  <file source="D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\Sound\Ringtone\Ring01.wma" archivePath="Sound\Ringtone\Ring01.wma" lastWriteTime="11/19/2011 1:13:08 AM" />
+  <file source="D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="11/18/2011 8:11:58 PM" />
+  <file source="D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\Bin\Release\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="11/19/2011 11:37:53 PM" />
+  <file source="D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\Bin\Release\Resource\Image\Home\alarm_time.png" archivePath="Resource\Image\Home\alarm_time.png" lastWriteTime="11/19/2011 8:02:36 AM" />
+  <file source="D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\Bin\Release\Resource\Image\Tile\tile.jpg" archivePath="Resource\Image\Tile\tile.jpg" lastWriteTime="11/19/2011 2:31:52 AM" />
+  <file source="D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\Bin\Release\Resource\Image\Tile\tileflip.jpg" archivePath="Resource\Image\Tile\tileflip.jpg" lastWriteTime="11/19/2011 2:31:52 AM" />
+  <file source="D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\Bin\Release\Toolkit.Content\ApplicationBar.Cancel.png" archivePath="Toolkit.Content\ApplicationBar.Cancel.png" lastWriteTime="11/19/2011 12:51:10 AM" />
+  <file source="D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\Bin\Release\Toolkit.Content\ApplicationBar.Check.png" archivePath="Toolkit.Content\ApplicationBar.Check.png" lastWriteTime="11/19/2011 12:51:10 AM" />
+  <file source="D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\Bin\Release\Resource\Image\AppBar\alarm_btn.png" archivePath="Resource\Image\AppBar\alarm_btn.png" lastWriteTime="11/18/2011 11:07:00 PM" />
+  <file source="D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\Bin\Release\Resource\Image\AppBar\home_btn.png" archivePath="Resource\Image\AppBar\home_btn.png" lastWriteTime="11/18/2011 11:07:00 PM" />
+  <file source="D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\Bin\Release\Resource\Image\AppBar\snooze_btn.png" archivePath="Resource\Image\AppBar\snooze_btn.png" lastWriteTime="11/18/2011 11:07:00 PM" />
+  <file source="D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\Bin\Release\Resource\Image\AppBar\sound_btn.png" archivePath="Resource\Image\AppBar\sound_btn.png" lastWriteTime="11/18/2011 11:07:00 PM" />
+  <file source="D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\Bin\Release\Resource\Image\StationIcon\938.png" archivePath="Resource\Image\StationIcon\938.png" lastWriteTime="11/18/2011 11:59:38 PM" />
+  <file source="D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\Bin\Release\Resource\Image\StationIcon\987.png" archivePath="Resource\Image\StationIcon\987.png" lastWriteTime="11/18/2011 11:58:06 PM" />
+  <file source="D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\Bin\Release\Resource\Image\StationIcon\capical 95.8.png" archivePath="Resource\Image\StationIcon\capical 95.8.png" lastWriteTime="11/18/2011 11:56:28 PM" />
+  <file source="D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\Bin\Release\Resource\Image\StationIcon\class 95.png" archivePath="Resource\Image\StationIcon\class 95.png" lastWriteTime="11/19/2011 12:03:00 AM" />
+  <file source="D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\Bin\Release\Resource\Image\StationIcon\expat radio 96.3.png" archivePath="Resource\Image\StationIcon\expat radio 96.3.png" lastWriteTime="11/19/2011 12:06:26 AM" />
+  <file source="D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\Bin\Release\Resource\Image\StationIcon\gold 90.5.png" archivePath="Resource\Image\StationIcon\gold 90.5.png" lastWriteTime="11/19/2011 12:08:26 AM" />
+  <file source="D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\Bin\Release\Resource\Image\StationIcon\Love_97.2FM.png" archivePath="Resource\Image\StationIcon\Love_97.2FM.png" lastWriteTime="11/19/2011 12:09:56 AM" />
+  <file source="D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\Bin\Release\Resource\Image\StationIcon\lush 99.5.png" archivePath="Resource\Image\StationIcon\lush 99.5.png" lastWriteTime="11/19/2011 12:11:26 AM" />
+  <file source="D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\Bin\Release\Resource\Image\StationIcon\oli 96.8.png" archivePath="Resource\Image\StationIcon\oli 96.8.png" lastWriteTime="11/19/2011 12:12:58 AM" />
+  <file source="D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\Bin\Release\Resource\Image\StationIcon\ria 89.7.png" archivePath="Resource\Image\StationIcon\ria 89.7.png" lastWriteTime="11/19/2011 12:14:26 AM" />
+  <file source="D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\Bin\Release\Resource\Image\StationIcon\symphony 92.4.png" archivePath="Resource\Image\StationIcon\symphony 92.4.png" lastWriteTime="11/19/2011 12:15:42 AM" />
+  <file source="D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\Bin\Release\Resource\Image\StationIcon\warna 94.2.png" archivePath="Resource\Image\StationIcon\warna 94.2.png" lastWriteTime="11/19/2011 12:16:56 AM" />
+  <file source="D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\Bin\Release\Resource\Image\StationIcon\yes933.png" archivePath="Resource\Image\StationIcon\yes933.png" lastWriteTime="11/19/2011 12:18:24 AM" />
+</xapCache>

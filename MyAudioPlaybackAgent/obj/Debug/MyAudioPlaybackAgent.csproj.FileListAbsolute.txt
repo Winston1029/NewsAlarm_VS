@@ -1,0 +1,32 @@
+C:\Users\Li Ji\Projects\WinPhone\sdkBackgroundAudioPlayerCS\MyAudioPlaybackAgent\obj\Debug\MyAudioPlaybackAgent.pdb
+C:\Users\Li Ji\Projects\WinPhone\sdkBackgroundAudioPlayerCS\MyAudioPlaybackAgent\Bin\Debug\MyAudioPlaybackAgent.dll
+C:\Users\Li Ji\Projects\WinPhone\sdkBackgroundAudioPlayerCS\MyAudioPlaybackAgent\Bin\Debug\MyAudioPlaybackAgent.pdb
+C:\Users\Li Ji\Projects\WinPhone\sdkBackgroundAudioPlayerCS\MyAudioPlaybackAgent\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Li Ji\Projects\WinPhone\sdkBackgroundAudioPlayerCS\MyAudioPlaybackAgent\obj\Debug\MyAudioPlaybackAgent.dll
+D:\Code\VS\Phone\NewsAlarm\MyAudioPlaybackAgent\Bin\Debug\MyAudioPlaybackAgent.dll
+D:\Code\VS\Phone\NewsAlarm\MyAudioPlaybackAgent\Bin\Debug\MyAudioPlaybackAgent.pdb
+D:\Code\VS\Phone\NewsAlarm\MyAudioPlaybackAgent\obj\Debug\ResolveAssemblyReference.cache
+D:\Code\VS\Phone\NewsAlarm\MyAudioPlaybackAgent\obj\Debug\MyAudioPlaybackAgent.dll
+D:\Code\VS\Phone\NewsAlarm\MyAudioPlaybackAgent\obj\Debug\MyAudioPlaybackAgent.pdb
+D:\Code\VS\Phone\NewsAlarm\MyAudioPlaybackAgent\Bin\Debug\System.ServiceModel.Syndication.dll
+D:\Code\VS\Phone\NewsAlarm\MyAudioPlaybackAgent\Bin\Debug\System.Xml.Serialization.dll
+D:\Code\VS\Phone\NewsAlarm\MyAudioPlaybackAgent\Bin\Debug\System.ServiceModel.Syndication.xml
+D:\Code\VS\Phone\NewsAlarm\MyAudioPlaybackAgent\Bin\Debug\System.Xml.Serialization.xml
+D:\Code\VS\Phone\NewsAlarm\MyAudioPlaybackAgent\Bin\Debug\de\System.ServiceModel.Syndication.resources.dll
+D:\Code\VS\Phone\NewsAlarm\MyAudioPlaybackAgent\Bin\Debug\es\System.ServiceModel.Syndication.resources.dll
+D:\Code\VS\Phone\NewsAlarm\MyAudioPlaybackAgent\Bin\Debug\fr\System.ServiceModel.Syndication.resources.dll
+D:\Code\VS\Phone\NewsAlarm\MyAudioPlaybackAgent\Bin\Debug\it\System.ServiceModel.Syndication.resources.dll
+D:\Code\VS\Phone\NewsAlarm\MyAudioPlaybackAgent\Bin\Debug\ja\System.ServiceModel.Syndication.resources.dll
+D:\Code\VS\Phone\NewsAlarm\MyAudioPlaybackAgent\Bin\Debug\ko\System.ServiceModel.Syndication.resources.dll
+D:\Code\VS\Phone\NewsAlarm\MyAudioPlaybackAgent\Bin\Debug\ru\System.ServiceModel.Syndication.resources.dll
+D:\Code\VS\Phone\NewsAlarm\MyAudioPlaybackAgent\Bin\Debug\zh-Hans\System.ServiceModel.Syndication.resources.dll
+D:\Code\VS\Phone\NewsAlarm\MyAudioPlaybackAgent\Bin\Debug\zh-Hant\System.ServiceModel.Syndication.resources.dll
+D:\Code\VS\Phone\NewsAlarm\MyAudioPlaybackAgent\Bin\Debug\de\System.Xml.Serialization.resources.dll
+D:\Code\VS\Phone\NewsAlarm\MyAudioPlaybackAgent\Bin\Debug\es\System.Xml.Serialization.resources.dll
+D:\Code\VS\Phone\NewsAlarm\MyAudioPlaybackAgent\Bin\Debug\fr\System.Xml.Serialization.resources.dll
+D:\Code\VS\Phone\NewsAlarm\MyAudioPlaybackAgent\Bin\Debug\it\System.Xml.Serialization.resources.dll
+D:\Code\VS\Phone\NewsAlarm\MyAudioPlaybackAgent\Bin\Debug\ja\System.Xml.Serialization.resources.dll
+D:\Code\VS\Phone\NewsAlarm\MyAudioPlaybackAgent\Bin\Debug\ko\System.Xml.Serialization.resources.dll
+D:\Code\VS\Phone\NewsAlarm\MyAudioPlaybackAgent\Bin\Debug\ru\System.Xml.Serialization.resources.dll
+D:\Code\VS\Phone\NewsAlarm\MyAudioPlaybackAgent\Bin\Debug\zh-Hans\System.Xml.Serialization.resources.dll
+D:\Code\VS\Phone\NewsAlarm\MyAudioPlaybackAgent\Bin\Debug\zh-Hant\System.Xml.Serialization.resources.dll

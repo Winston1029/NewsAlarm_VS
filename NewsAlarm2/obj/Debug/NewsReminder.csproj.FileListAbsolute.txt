@@ -1,0 +1,64 @@
+D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\Bin\Debug\ApplicationIcon.png
+D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\Bin\Debug\Background.png
+D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\Bin\Debug\Resource\Image\Home\alarm_time.png
+D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\Bin\Debug\Resource\Image\Tile\tile.jpg
+D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\Bin\Debug\Resource\Image\Tile\tileflip.jpg
+D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\Bin\Debug\Toolkit.Content\ApplicationBar.Cancel.png
+D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\Bin\Debug\Toolkit.Content\ApplicationBar.Check.png
+D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\Bin\Debug\Resource\Image\AppBar\alarm_btn.png
+D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\Bin\Debug\Resource\Image\AppBar\home_btn.png
+D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\Bin\Debug\Resource\Image\AppBar\snooze_btn.png
+D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\Bin\Debug\Resource\Image\AppBar\sound_btn.png
+D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\Bin\Debug\Resource\Image\StationIcon\938.png
+D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\Bin\Debug\Resource\Image\StationIcon\987.png
+D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\Bin\Debug\Resource\Image\StationIcon\capical 95.8.png
+D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\Bin\Debug\Resource\Image\StationIcon\class 95.png
+D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\Bin\Debug\Resource\Image\StationIcon\expat radio 96.3.png
+D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\Bin\Debug\Resource\Image\StationIcon\gold 90.5.png
+D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\Bin\Debug\Resource\Image\StationIcon\Love_97.2FM.png
+D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\Bin\Debug\Resource\Image\StationIcon\lush 99.5.png
+D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\Bin\Debug\Resource\Image\StationIcon\oli 96.8.png
+D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\Bin\Debug\Resource\Image\StationIcon\ria 89.7.png
+D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\Bin\Debug\Resource\Image\StationIcon\symphony 92.4.png
+D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\Bin\Debug\Resource\Image\StationIcon\warna 94.2.png
+D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\Bin\Debug\Resource\Image\StationIcon\yes933.png
+D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\Bin\Debug\NewsAlarm2.dll
+D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\Bin\Debug\NewsAlarm2.pdb
+D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\Bin\Debug\AppManifest.xaml
+D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\Bin\Debug\NewsAlarm2.xap
+D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\Bin\Debug\Microsoft.Phone.Controls.dll
+D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\Bin\Debug\MyAudioPlaybackAgent.dll
+D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\Bin\Debug\System.ServiceModel.Syndication.dll
+D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\Bin\Debug\System.Xml.Serialization.dll
+D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\Bin\Debug\MyAudioPlaybackAgent.pdb
+D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\Bin\Debug\Microsoft.Phone.Controls.xml
+D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\Bin\Debug\System.ServiceModel.Syndication.xml
+D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\Bin\Debug\System.Xml.Serialization.xml
+D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\Bin\Debug\de\System.ServiceModel.Syndication.resources.dll
+D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\Bin\Debug\es\System.ServiceModel.Syndication.resources.dll
+D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\Bin\Debug\fr\System.ServiceModel.Syndication.resources.dll
+D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\Bin\Debug\it\System.ServiceModel.Syndication.resources.dll
+D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\Bin\Debug\ja\System.ServiceModel.Syndication.resources.dll
+D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\Bin\Debug\ko\System.ServiceModel.Syndication.resources.dll
+D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\Bin\Debug\ru\System.ServiceModel.Syndication.resources.dll
+D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\Bin\Debug\zh-Hans\System.ServiceModel.Syndication.resources.dll
+D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\Bin\Debug\zh-Hant\System.ServiceModel.Syndication.resources.dll
+D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\Bin\Debug\de\System.Xml.Serialization.resources.dll
+D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\Bin\Debug\es\System.Xml.Serialization.resources.dll
+D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\Bin\Debug\fr\System.Xml.Serialization.resources.dll
+D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\Bin\Debug\it\System.Xml.Serialization.resources.dll
+D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\Bin\Debug\ja\System.Xml.Serialization.resources.dll
+D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\Bin\Debug\ko\System.Xml.Serialization.resources.dll
+D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\Bin\Debug\ru\System.Xml.Serialization.resources.dll
+D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\Bin\Debug\zh-Hans\System.Xml.Serialization.resources.dll
+D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\Bin\Debug\zh-Hant\System.Xml.Serialization.resources.dll
+D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\obj\Debug\ResolveAssemblyReference.cache
+D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\obj\Debug\App.g.i.cs
+D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\obj\Debug\Clock\SetTimePage.g.i.cs
+D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\obj\Debug\MainPage.g.i.cs
+D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\obj\Debug\Sound\SetSoundPage.g.i.cs
+D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\obj\Debug\NewsAlarm2.g.resources
+D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\obj\Debug\NewsAlarm2.dll
+D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\obj\Debug\NewsAlarm2.pdb
+D:\Code\VS\Phone\NewsAlarm\NewsAlarm2\obj\Debug\XapCacheFile.xml

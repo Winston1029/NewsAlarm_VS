@@ -1,0 +1,42 @@
+C:\Users\Li Ji\Projects\WinPhone\Winston\NewsAlarm_WL\NewsAlarm2\Bin\Release\ApplicationIcon.png
+C:\Users\Li Ji\Projects\WinPhone\Winston\NewsAlarm_WL\NewsAlarm2\Bin\Release\Background.png
+C:\Users\Li Ji\Projects\WinPhone\Winston\NewsAlarm_WL\NewsAlarm2\Bin\Release\Resource\Image\Home\alarm_time.png
+C:\Users\Li Ji\Projects\WinPhone\Winston\NewsAlarm_WL\NewsAlarm2\Bin\Release\Resource\Image\Tile\tile.jpg
+C:\Users\Li Ji\Projects\WinPhone\Winston\NewsAlarm_WL\NewsAlarm2\Bin\Release\Resource\Image\Tile\tileflip.jpg
+C:\Users\Li Ji\Projects\WinPhone\Winston\NewsAlarm_WL\NewsAlarm2\Bin\Release\Toolkit.Content\ApplicationBar.Cancel.png
+C:\Users\Li Ji\Projects\WinPhone\Winston\NewsAlarm_WL\NewsAlarm2\Bin\Release\Toolkit.Content\ApplicationBar.Check.png
+C:\Users\Li Ji\Projects\WinPhone\Winston\NewsAlarm_WL\NewsAlarm2\Bin\Release\Resource\Image\AppBar\alarm_btn.png
+C:\Users\Li Ji\Projects\WinPhone\Winston\NewsAlarm_WL\NewsAlarm2\Bin\Release\Resource\Image\AppBar\home_btn.png
+C:\Users\Li Ji\Projects\WinPhone\Winston\NewsAlarm_WL\NewsAlarm2\Bin\Release\Resource\Image\AppBar\snooze_btn.png
+C:\Users\Li Ji\Projects\WinPhone\Winston\NewsAlarm_WL\NewsAlarm2\Bin\Release\Resource\Image\AppBar\sound_btn.png
+C:\Users\Li Ji\Projects\WinPhone\Winston\NewsAlarm_WL\NewsAlarm2\Bin\Release\Resource\Image\StationIcon\938.png
+C:\Users\Li Ji\Projects\WinPhone\Winston\NewsAlarm_WL\NewsAlarm2\Bin\Release\Resource\Image\StationIcon\987.png
+C:\Users\Li Ji\Projects\WinPhone\Winston\NewsAlarm_WL\NewsAlarm2\Bin\Release\Resource\Image\StationIcon\capical 95.8.png
+C:\Users\Li Ji\Projects\WinPhone\Winston\NewsAlarm_WL\NewsAlarm2\Bin\Release\Resource\Image\StationIcon\class 95.png
+C:\Users\Li Ji\Projects\WinPhone\Winston\NewsAlarm_WL\NewsAlarm2\Bin\Release\Resource\Image\StationIcon\expat radio 96.3.png
+C:\Users\Li Ji\Projects\WinPhone\Winston\NewsAlarm_WL\NewsAlarm2\Bin\Release\Resource\Image\StationIcon\gold 90.5.png
+C:\Users\Li Ji\Projects\WinPhone\Winston\NewsAlarm_WL\NewsAlarm2\Bin\Release\Resource\Image\StationIcon\Love_97.2FM.png
+C:\Users\Li Ji\Projects\WinPhone\Winston\NewsAlarm_WL\NewsAlarm2\Bin\Release\Resource\Image\StationIcon\lush 99.5.png
+C:\Users\Li Ji\Projects\WinPhone\Winston\NewsAlarm_WL\NewsAlarm2\Bin\Release\Resource\Image\StationIcon\oli 96.8.png
+C:\Users\Li Ji\Projects\WinPhone\Winston\NewsAlarm_WL\NewsAlarm2\Bin\Release\Resource\Image\StationIcon\ria 89.7.png
+C:\Users\Li Ji\Projects\WinPhone\Winston\NewsAlarm_WL\NewsAlarm2\Bin\Release\Resource\Image\StationIcon\symphony 92.4.png
+C:\Users\Li Ji\Projects\WinPhone\Winston\NewsAlarm_WL\NewsAlarm2\Bin\Release\Resource\Image\StationIcon\warna 94.2.png
+C:\Users\Li Ji\Projects\WinPhone\Winston\NewsAlarm_WL\NewsAlarm2\Bin\Release\Resource\Image\StationIcon\yes933.png
+C:\Users\Li Ji\Projects\WinPhone\Winston\NewsAlarm_WL\NewsAlarm2\Bin\Release\NewsAlarm2.dll
+C:\Users\Li Ji\Projects\WinPhone\Winston\NewsAlarm_WL\NewsAlarm2\Bin\Release\NewsAlarm2.pdb
+C:\Users\Li Ji\Projects\WinPhone\Winston\NewsAlarm_WL\NewsAlarm2\Bin\Release\AppManifest.xaml
+C:\Users\Li Ji\Projects\WinPhone\Winston\NewsAlarm_WL\NewsAlarm2\Bin\Release\NewsAlarm2.xap
+C:\Users\Li Ji\Projects\WinPhone\Winston\NewsAlarm_WL\NewsAlarm2\Bin\Release\Microsoft.Phone.Controls.dll
+C:\Users\Li Ji\Projects\WinPhone\Winston\NewsAlarm_WL\NewsAlarm2\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Li Ji\Projects\WinPhone\Winston\NewsAlarm_WL\NewsAlarm2\Bin\Release\MyAudioPlaybackAgent.dll
+C:\Users\Li Ji\Projects\WinPhone\Winston\NewsAlarm_WL\NewsAlarm2\Bin\Release\MyAudioPlaybackAgent.pdb
+C:\Users\Li Ji\Projects\WinPhone\Winston\NewsAlarm_WL\NewsAlarm2\Bin\Release\Microsoft.Phone.Controls.xml
+C:\Users\Li Ji\Projects\WinPhone\Winston\NewsAlarm_WL\NewsAlarm2\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Li Ji\Projects\WinPhone\Winston\NewsAlarm_WL\NewsAlarm2\obj\Release\App.g.i.cs
+C:\Users\Li Ji\Projects\WinPhone\Winston\NewsAlarm_WL\NewsAlarm2\obj\Release\Clock\SetTimePage.g.i.cs
+C:\Users\Li Ji\Projects\WinPhone\Winston\NewsAlarm_WL\NewsAlarm2\obj\Release\MainPage.g.i.cs
+C:\Users\Li Ji\Projects\WinPhone\Winston\NewsAlarm_WL\NewsAlarm2\obj\Release\Sound\SetSoundPage.g.i.cs
+C:\Users\Li Ji\Projects\WinPhone\Winston\NewsAlarm_WL\NewsAlarm2\obj\Release\NewsAlarm2.g.resources
+C:\Users\Li Ji\Projects\WinPhone\Winston\NewsAlarm_WL\NewsAlarm2\obj\Release\NewsAlarm2.dll
+C:\Users\Li Ji\Projects\WinPhone\Winston\NewsAlarm_WL\NewsAlarm2\obj\Release\NewsAlarm2.pdb
+C:\Users\Li Ji\Projects\WinPhone\Winston\NewsAlarm_WL\NewsAlarm2\obj\Release\XapCacheFile.xml
